@@ -1318,6 +1318,7 @@ footer .back-to-top p {
     header .rating {
     	left: 50%;
     	margin-left: -50px;
+    	bottom: 30px;
     }
 
 	/* SECTION PACKETS */
